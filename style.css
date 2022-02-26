@@ -1,0 +1,8 @@
+.wrapper {
+  min-height: 100vh;
+  background: rgb(153, 171, 187);
+}
+
+td button {
+  margin: auto 5px;
+}
